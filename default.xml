@@ -611,6 +611,7 @@
   <project path="vendor/samsung/galaxys2plus-common" name="TeamBliss-Devices/proprietary_vendor_samsung_galaxys2plus-common" remote="github" revision="lp5.0" />
   <project path="vendor/oneplus" name="TheMuppets/proprietary_vendor_oneplus" remote="github" revision="cm-12.0" />
   <project path="vendor/oppo" name="TheMuppets/proprietary_vendor_oppo" remote="github" revision="cm-12.0" />
+  <project path="vendor/xiaomi" name="TeamBliss-Devices/proprietary_vendor_xiaomi" remote="github" revision="lp5.0" />
 
   <!--Additional Repos-->
   
